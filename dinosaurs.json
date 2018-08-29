@@ -1,7 +1,7 @@
 [
     {
     "name": "T-Rex",
-    "image": "../../static/dino-1.png",
+    "image": "https://s3.us-east-2.amazonaws.com/dev-dino/dino-1.png",
     "skills": [
     "stepping on things",
     "musing on life",
@@ -10,14 +10,14 @@
     },
     {
     "name": "Utahraptor",
-    "image": "../../static/dino-3.png",
+    "image": "https://s3.us-east-2.amazonaws.com/dev-dino/dino-3.png",
     "skills": [
     "being contrary"
     ]
     },
     {
     "name": "Dromiceiomimus",
-    "image": "../../static/dino-2.png",
+    "image": "https://s3.us-east-2.amazonaws.com/dev-dino/dino-2.png",
     "skills": [
     "Java",
     "Ninja",
